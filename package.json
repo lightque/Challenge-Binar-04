@@ -1,0 +1,17 @@
+{
+  "name": "binar-fsw-challenge-04",
+  "version": "1.0.0",
+  "description": "Project HTTP Server dan DOM",
+  "main": "server/index.js",
+  "author": "Dikki Nur Rahmat <rainpedia@icloud.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "nodemon server/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-static": "^0.7.11",
+    "nodemon": "^2.0.20"
+  }
+}
